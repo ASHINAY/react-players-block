@@ -1,8 +1,32 @@
 
 // export const quotes ="Nature does not hurry, yet everything is accomplished."
-
-export const buttonNames = [
-    "Desktop Button 1",
-    "Desktop Button 2",
-    "Desktop Button 3",
+const products = [
+    {
+      id: 1,
+      image: imageProduct, // This would be the imported image
+      name: "Basic Dress Green",
+      category: "Dress",
+      price: "Rs 236.00"
+    },
+    {
+      id: 2,
+      image: shoeImage, // This would be the imported image for shoes
+      name: "Basic Dress Green",
+      category: "Dress",
+      price: "Rs 236.00"
+    },
+    {
+      id: 3,
+      image: imageProduct,
+      name: "Basic Dress Green",
+      category: "Dress",
+      price: "Rs 236.00"
+    },
+    {
+      id: 4,
+      image: imageProduct,
+      name: "Basic Dress Green",
+      category: "Dress",
+      price: "Rs 236.00"
+    }
   ];
