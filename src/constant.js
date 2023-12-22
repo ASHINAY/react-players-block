@@ -1,6 +1,7 @@
+import imageProduct from "./assets/imageProduct.png";
+import shoeImage from "./assets/shoeImage.png";
 
-// export const quotes ="Nature does not hurry, yet everything is accomplished."
-const products = [
+export const products = [
     {
       id: 1,
       image: imageProduct, // This would be the imported image
